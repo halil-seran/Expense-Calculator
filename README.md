@@ -1,2 +1,3 @@
-Npm 
+Npm install
+Npm start
  
